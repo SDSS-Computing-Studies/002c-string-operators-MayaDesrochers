@@ -4,5 +4,5 @@
 word1="The future belongs to those"
 word2="who believe in the beauty"
 word3="of their dreams"
-result=word1+ " "+word2+ " "+word3+ "" +"."
+result=word1+ " "+word2+ " "+word3+ "."
 print(result)
