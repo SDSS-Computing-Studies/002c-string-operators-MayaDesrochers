@@ -1,3 +1,8 @@
-#!python3
-
-print("The future belongs to those" + + "who believe in the beauty" + "\n" of their dreams."
+  
+  
+ #!python3
+word1="The future belongs to those"
+word2="who believe in the beauty"
+word3="of their dreams"
+result=word1+ " "+word2+ " "+word3+ "."
+print(result)
